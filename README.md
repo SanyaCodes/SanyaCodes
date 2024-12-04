@@ -13,10 +13,8 @@
 
 💬 My aim is to build industry revolutionizing Data Science solutions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyacodes)](https://github.com/anuraghazra/github-readme-stats)
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=sanyacodes)
+[![GitHub Streak](https://pixel-profile.vercel.app/api/github-stats?username=sanyacodes)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanyacodes&theme=dark)](https://git.io/streak-stats)
 <!--
 **SanyaCodes/SanyaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
