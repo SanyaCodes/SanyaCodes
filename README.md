@@ -14,6 +14,7 @@
 💬 My aim is to build industry revolutionizing Data Science solutions.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyacodes)](https://github.com/anuraghazra/github-readme-stats)
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=sanyacodes)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanyacodes&theme=dark)](https://git.io/streak-stats)
 <!--
